@@ -2,4 +2,5 @@
 #include <vector>
 using namespace std;
 
-int linearSearch(vector<int>& arr, int key);
+int binarySearch(vector<int>& arr, int key);
+
